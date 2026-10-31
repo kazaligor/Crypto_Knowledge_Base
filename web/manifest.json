@@ -1,0 +1,19 @@
+{
+  "name": "Криптовалюты: понятно о сложном",
+  "short_name": "Криптовалюты",
+  "description": "Практический справочник о криптовалютах, блокчейне, кошельках и цифровых активах",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#14243a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
